@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inajoeco.github.io/sitemap_index.inajoeco
